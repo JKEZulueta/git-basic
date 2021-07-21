@@ -7,3 +7,11 @@ Update changes to the github
 
 
 Changes to pull in git
+
+
+The add in git adds the new changes to any file or any created file you would like to add in your git
+
+Commit is something that you would commit onto changes in your files and add versions, from the previous files and this can be easily tracked as the commit you made on files.
+
+
+Push is basically putting your committed files into the repository in order to be pulled by others using the repository if working as a group.
